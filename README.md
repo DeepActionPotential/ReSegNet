@@ -1,6 +1,6 @@
 # Retina Blood Vessel Segmentation
 
-## About the Project
+## About the Project.
 
 This project focuses on the automatic segmentation of blood vessels in retinal fundus images using deep learning. Accurate vessel segmentation is crucial for diagnosing and monitoring various ophthalmic diseases, such as diabetic retinopathy, glaucoma, and hypertensive retinopathy. The project leverages state-of-the-art convolutional neural networks to perform pixel-wise classification, distinguishing vessel structures from the background. The solution is designed for both research and practical clinical applications, providing robust and efficient segmentation results.
 
